@@ -359,7 +359,7 @@ void Task_1_1(void)
 * Logic: Use this function to encapsulate your Task 1.2 logic
 * Example Call: Task_1_2();
 */
-
+# A* algorithm
 class location;
 struct adjlist {
 	location* data;
